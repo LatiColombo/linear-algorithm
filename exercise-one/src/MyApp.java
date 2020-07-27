@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class MyApp {
 
     public static void main(String[] args) {
+        
         System.out.println("Programa que suma dos números dados");
 
         //defino las variables
