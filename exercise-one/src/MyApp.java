@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class MyApp {
 
     public static void main(String[] args) {
-        
+
         System.out.println("Programa que suma dos números dados");
 
         //defino las variables
-          int firstNumber;
-          int secondNumber;
-          int result;
+        int firstNumber;
+        int secondNumber;
+        int result;
 
         //habilito el ingreso de datos por el teclado
         Scanner keyboard = new Scanner(System.in);
